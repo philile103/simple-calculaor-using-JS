@@ -1,1 +1,1 @@
-# fluffy-octo-system
+# simple calculator using JavaScript, HTML and CSS
